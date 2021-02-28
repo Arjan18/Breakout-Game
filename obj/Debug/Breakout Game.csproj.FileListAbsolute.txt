@@ -1,0 +1,24 @@
+E:\Uni Work\Component Programming\Assignment\Breakout Game\Breakout Game\bin\Debug\Breakout Game.exe.config
+E:\Uni Work\Component Programming\Assignment\Breakout Game\Breakout Game\bin\Debug\Breakout Game.exe
+E:\Uni Work\Component Programming\Assignment\Breakout Game\Breakout Game\bin\Debug\Breakout Game.pdb
+E:\Uni Work\Component Programming\Assignment\Breakout Game\Breakout Game\obj\Debug\Breakout Game.csprojResolveAssemblyReference.cache
+E:\Uni Work\Component Programming\Assignment\Breakout Game\Breakout Game\obj\Debug\Breakout_Game.Form1.resources
+E:\Uni Work\Component Programming\Assignment\Breakout Game\Breakout Game\obj\Debug\Breakout_Game.Properties.Resources.resources
+E:\Uni Work\Component Programming\Assignment\Breakout Game\Breakout Game\obj\Debug\Breakout Game.csproj.GenerateResource.Cache
+E:\Uni Work\Component Programming\Assignment\Breakout Game\Breakout Game\obj\Debug\Breakout Game.csproj.CoreCompileInputs.cache
+E:\Uni Work\Component Programming\Assignment\Breakout Game\Breakout Game\obj\Debug\Breakout Game.exe
+E:\Uni Work\Component Programming\Assignment\Breakout Game\Breakout Game\obj\Debug\Breakout Game.pdb
+E:\Uni Work\Component Programming\Assignment\Breakout Game\Breakout Game\obj\Debug\Breakout_Game.Form2.resources
+E:\Uni Work\Component Programming\Assignment\Breakout Game\Breakout Game\obj\Debug\Breakout_Game.Form3.resources
+E:\Uni Work\Year 1\Component Programming\Breakout Game - Arjan Mahil\Breakout Game\bin\Debug\Breakout Game.exe.config
+E:\Uni Work\Year 1\Component Programming\Breakout Game - Arjan Mahil\Breakout Game\bin\Debug\Breakout Game.exe
+E:\Uni Work\Year 1\Component Programming\Breakout Game - Arjan Mahil\Breakout Game\bin\Debug\Breakout Game.pdb
+E:\Uni Work\Year 1\Component Programming\Breakout Game - Arjan Mahil\Breakout Game\obj\Debug\Breakout Game.csprojAssemblyReference.cache
+E:\Uni Work\Year 1\Component Programming\Breakout Game - Arjan Mahil\Breakout Game\obj\Debug\Breakout_Game.Form1.resources
+E:\Uni Work\Year 1\Component Programming\Breakout Game - Arjan Mahil\Breakout Game\obj\Debug\Breakout_Game.Form2.resources
+E:\Uni Work\Year 1\Component Programming\Breakout Game - Arjan Mahil\Breakout Game\obj\Debug\Breakout_Game.Form3.resources
+E:\Uni Work\Year 1\Component Programming\Breakout Game - Arjan Mahil\Breakout Game\obj\Debug\Breakout_Game.Properties.Resources.resources
+E:\Uni Work\Year 1\Component Programming\Breakout Game - Arjan Mahil\Breakout Game\obj\Debug\Breakout Game.csproj.GenerateResource.cache
+E:\Uni Work\Year 1\Component Programming\Breakout Game - Arjan Mahil\Breakout Game\obj\Debug\Breakout Game.csproj.CoreCompileInputs.cache
+E:\Uni Work\Year 1\Component Programming\Breakout Game - Arjan Mahil\Breakout Game\obj\Debug\Breakout Game.exe
+E:\Uni Work\Year 1\Component Programming\Breakout Game - Arjan Mahil\Breakout Game\obj\Debug\Breakout Game.pdb
